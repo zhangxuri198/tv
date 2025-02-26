@@ -13,22 +13,6 @@ http://192.168.9.1:1055/rtp/225.1.1.128:5002
 http://192.168.9.1:1055/rtp/225.1.1.122:5002
 #EXTINF:-1 tvg-name="天津教育" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin6.png" group-title="天津频道",天津教育
 http://192.168.9.1:1055/rtp/225.1.1.129:5002
-#EXTINF:-1 tvg-name="蓟州" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jizhou.png" group-title="天津频道",蓟州
-http://192.168.9.1:1055/rtp/225.1.1.82:5002
-#EXTINF:-1 tvg-name="宝坻" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/baodi.jpg" group-title="天津频道",宝坻 SD
-http://192.168.9.1:1055/rtp/225.1.1.83:5002
-#EXTINF:-1 tvg-name="静海" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jinghai.jpg" group-title="天津频道",静海 SD
-http://192.168.9.1:1055/rtp/225.1.1.110:5002
-#EXTINF:-1 tvg-name="河东" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hedong.jpg" group-title="天津频道",河东 SD
-http://192.168.9.1:1055/rtp/225.1.2.2:5002
-#EXTINF:-1 tvg-name="河西" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hexi.jpg" group-title="天津频道",河西 SD
-http://192.168.9.1:1055/rtp/225.1.2.4:5002
-#EXTINF:-1 tvg-name="滨海1" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/binhai.png" group-title="天津频道",滨海1 SD
-http://192.168.9.1:1055/rtp/225.1.2.7:5002
-#EXTINF:-1 tvg-name="滨海2" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/binhai.png" group-title="天津频道",滨海2 SD
-http://192.168.9.1:1055/rtp/225.1.2.8:5002
-#EXTINF:-1 tvg-name="大港油田企业" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/youtian.png" group-title="天津频道",大港油田企业
-http://192.168.9.1:1055/rtp/225.1.2.14:5002
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv1.png" group-title="中央频道",CCTV-1综合
 http://192.168.9.1:1055/rtp/225.1.1.120:5002
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv2.png" group-title="中央频道",CCTV-2财经
@@ -259,47 +243,3 @@ http://192.168.9.1:1055/rtp/225.1.1.72:5002
 http://192.168.9.1:1055/rtp/225.1.2.23:5002
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cftx.png" group-title="付费频道",财富天下 SD
 http://192.168.9.1:1055/rtp/225.1.2.198:5002
-#EXTINF:-1 tvg-name="文艺广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/1046.png" group-title="广播频道",文艺广播
-http://192.168.9.1:1055/rtp/225.1.1.171:5002
-#EXTINF:-1 tvg-name="经济广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/1014.png" group-title="广播频道",经济广播
-http://192.168.9.1:1055/rtp/225.1.1.172:5002
-#EXTINF:-1 tvg-name="新闻广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/972.png" group-title="广播频道",新闻广播
-http://192.168.9.1:1055/rtp/225.1.1.173:5002
-#EXTINF:-1 tvg-name="生活广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/911.png" group-title="广播频道",生活广播
-http://192.168.9.1:1055/rtp/225.1.1.174:5002
-#EXTINF:-1 tvg-name="交通广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/1068.png" group-title="广播频道",交通广播
-http://192.168.9.1:1055/rtp/225.1.1.175:5002
-#EXTINF:-1 tvg-name="相声广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/921.png" group-title="广播频道",相声广播
-http://192.168.9.1:1055/rtp/225.1.1.176:5002
-#EXTINF:-1 tvg-name="小说广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/666.png" group-title="广播频道",小说广播
-http://192.168.9.1:1055/rtp/225.1.1.177:5002
-#EXTINF:-1 tvg-name="私家车音乐广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/878.png" group-title="广播频道",私家车音乐广播
-http://192.168.9.1:1055/rtp/225.1.1.178:5002
-#EXTINF:-1 tvg-name="音乐广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/99.png" group-title="广播频道",音乐广播
-http://192.168.9.1:1055/rtp/225.1.1.179:5002
-#EXTINF:-1 tvg-name="经典音乐广播" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/885.png" group-title="广播频道",经典音乐广播
-http://192.168.9.1:1055/rtp/225.1.1.180:5002
-#EXTINF:-1 tvg-name="百视通1" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通1
-http://192.168.9.1:1055/rtp/225.1.1.162:5002
-#EXTINF:-1 tvg-name="百视通2" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通2
-http://192.168.9.1:1055/rtp/225.1.1.163:5002
-#EXTINF:-1 tvg-name="百视通3" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通3
-http://192.168.9.1:1055/rtp/225.1.1.164:5002
-#EXTINF:-1 tvg-name="百视通4" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通4
-http://192.168.9.1:1055/rtp/225.1.1.165:5002
-#EXTINF:-1 tvg-name="百视通5" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通5
-http://192.168.9.1:1055/rtp/225.1.1.166:5002
-#EXTINF:-1 tvg-name="百视通6" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通6
-http://192.168.9.1:1055/rtp/225.1.1.167:5002
-#EXTINF:-1 tvg-name="百视通7" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通7
-http://192.168.9.1:1055/rtp/225.1.1.168:5002
-#EXTINF:-1 tvg-name="百视通8" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通8
-http://192.168.9.1:1055/rtp/225.1.1.169:5002
-#EXTINF:-1 tvg-name="百视通9" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通9
-http://192.168.9.1:1055/rtp/225.1.1.170:5002
-#EXTINF:-1 tvg-name="百视通10" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bestv.png" group-title="连播频道",百视通10
-http://192.168.9.1:1055/rtp/225.1.1.211:5002
-#EXTINF:-1 tvg-name="901" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/901.png" group-title="连播频道",901频道 SD
-http://192.168.9.1:1055/rtp/225.1.1.78:5002
-#EXTINF:-1 tvg-name="902" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/902.png" group-title="连播频道",902频道
-http://192.168.9.1:1055/rtp/225.1.1.79:5002
