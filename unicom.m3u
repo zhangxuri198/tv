@@ -13,23 +13,23 @@ http://192.168.1.1:1055/rtp/225.1.1.128:5002
 http://192.168.1.1:1055/rtp/225.1.1.122:5002
 #EXTINF:-1 tvg-name="天津教育" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin6.png" group-title="天津频道",天津教育
 http://192.168.1.1:1055/rtp/225.1.1.129:5002
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv1.png" group-title="中央频道",CCTV-1综合
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv1.png" group-title="中央频道",CCTV1
 http://192.168.1.1:1055/rtp/225.1.1.120:5002
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv2.png" group-title="中央频道",CCTV-2财经
 http://192.168.1.1:1055/rtp/225.1.1.133:5002
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv3.png" group-title="中央频道",CCTV-3综艺
 http://192.168.1.1:1055/rtp/225.1.1.158:5002
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv4.png" group-title="中央频道",CCTV-4中文国际
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv4.png" group-title="中央频道",CCTV4
 http://192.168.1.1:1055/rtp/225.1.1.150:5002
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv5.png" group-title="中央频道",CCTV-5体育
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv5.png" group-title="中央频道",CCTV5
 http://192.168.1.1:1055/rtp/225.1.1.160:5002
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv5p.png" group-title="中央频道",CCTV-5+体育赛事
 http://192.168.1.1:1055/rtp/225.1.1.121:5002
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv6.png" group-title="中央频道",CCTV-6电影
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv6.png" group-title="中央频道",CCTV6
 http://192.168.1.1:1055/rtp/225.1.1.195:5002
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv7.png" group-title="中央频道",CCTV-7国防军事
 http://192.168.1.1:1055/rtp/225.1.1.138:5002
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv8.png" group-title="中央频道",CCTV-8电视剧
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv8.png" group-title="中央频道",CCTV8
 http://192.168.1.1:1055/rtp/225.1.1.196:5002
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv9.png" group-title="中央频道",CCTV-9纪录
 http://192.168.1.1:1055/rtp/225.1.1.119:5002
@@ -49,9 +49,9 @@ http://192.168.1.1:1055/rtp/225.1.2.194:5002
 http://192.168.1.1:1055/rtp/225.1.2.237:5002
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv17.png" group-title="中央频道",CCTV-17农业农村
 http://192.168.1.1:1055/rtp/225.1.2.52:5002
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cgtn.png" group-title="中央频道",CGTN SD
+#EXTINF:-1 tvg-name="CGTN01" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cgtn.png" group-title="中央频道",CGTN
 http://192.168.1.1:1055/rtp/225.1.1.27:5002
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cgtnjl.png" group-title="中央频道",CGTN纪录 SD
+#EXTINF:-1 tvg-name="CGTN02" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cgtnjl.png" group-title="中央频道",CGTN纪录
 http://192.168.1.1:1055/rtp/225.1.1.55:5002
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/heilongjiang.png" group-title="地方频道",黑龙江卫视
 http://192.168.1.1:1055/rtp/225.1.1.115:5002
@@ -101,23 +101,23 @@ http://192.168.1.1:1055/rtp/225.1.1.182:5002
 http://192.168.1.1:1055/rtp/225.1.2.81:5002
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/yunnan.png" group-title="地方频道",云南卫视
 http://192.168.1.1:1055/rtp/225.1.1.250:5002
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/neimenggu.png" group-title="地方频道",内蒙古卫视 SD
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/neimenggu.png" group-title="地方频道",内蒙古卫视
 http://192.168.1.1:1055/rtp/225.1.1.32:5002
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/xinjiang.png" group-title="地方频道",新疆卫视 SD
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/xinjiang.png" group-title="地方频道",新疆卫视
 http://192.168.1.1:1055/rtp/225.1.1.35:5002
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/shaanxi.png" group-title="地方频道",陕西卫视 SD
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/shaanxi.png" group-title="地方频道",陕西卫视
 http://192.168.1.1:1055/rtp/225.1.1.41:5002
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/shanxi.png" group-title="地方频道",山西卫视 SD
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/shanxi.png" group-title="地方频道",山西卫视
 http://192.168.1.1:1055/rtp/225.1.1.50:5002
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/xizang.png" group-title="地方频道",西藏卫视 SD
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/xizang.png" group-title="地方频道",西藏卫视
 http://192.168.1.1:1055/rtp/225.1.1.51:5002
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/ningxia.png" group-title="地方频道",宁夏卫视 SD
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/ningxia.png" group-title="地方频道",宁夏卫视
 http://192.168.1.1:1055/rtp/225.1.1.56:5002
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bingtuan.png" group-title="地方频道",兵团卫视 SD
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bingtuan.png" group-title="地方频道",兵团卫视
 http://192.168.1.1:1055/rtp/225.1.1.57:5002
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/kaku.png" group-title="地方频道",卡酷少儿 SD
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/kaku.png" group-title="地方频道",卡酷少儿
 http://192.168.1.1:1055/rtp/225.1.1.58:5002
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hhxd.png" group-title="地方频道",哈哈炫动 SD
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hhxd.png" group-title="地方频道",哈哈炫动
 http://192.168.1.1:1055/rtp/225.1.1.62:5002
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jykt.png" group-title="地方频道",金鹰卡通
 http://192.168.1.1:1055/rtp/225.1.2.236:5002
@@ -125,7 +125,7 @@ http://192.168.1.1:1055/rtp/225.1.2.236:5002
 http://192.168.1.1:1055/rtp/225.1.2.30:5002
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jyjs.png" group-title="地方频道",金鹰纪实
 http://192.168.1.1:1055/rtp/225.1.1.124:5002
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/sdjy.png" group-title="地方频道",山东教育卫视 SD
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/sdjy.png" group-title="地方频道",山东教育卫视
 http://192.168.1.1:1055/rtp/225.1.2.118:5002
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/dyjc.png" group-title="付费频道",第一剧场
 http://192.168.1.1:1055/rtp/225.1.2.175:5002
@@ -142,5 +142,5 @@ http://192.168.1.1:1055/rtp/225.1.2.170:5002
 http://192.168.1.1:1055/rtp/225.1.1.134:5002
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/yxfy.png" group-title="付费频道",游戏风云
 http://192.168.1.1:1055/rtp/225.1.1.135:5002
-#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/xdm.png" group-title="付费频道",新动漫 SD
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/xdm.png" group-title="付费频道",新动漫
 http://192.168.1.1:1055/rtp/225.1.1.216:5002
