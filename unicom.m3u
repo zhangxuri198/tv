@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://e.erw.cc/e.xml"
+#EXTM3U url-tvg="https://e.erw.cc/all.xml"
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin.png" group-title="天津频道",天津卫视
 http://192.168.1.1:1055/rtp/225.1.1.111:5002
 #EXTINF:-1 tvg-id="352" tvg-name="天津新闻" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin1.png" group-title="天津频道",天津新闻
