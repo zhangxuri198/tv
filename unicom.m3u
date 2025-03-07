@@ -13,41 +13,41 @@ http://192.168.1.1:1055/rtp/225.1.1.128:5002
 http://192.168.1.1:1055/rtp/225.1.1.122:5002
 #EXTINF:-1 tvg-id="502" tvg-name="天津教育" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin6.png" group-title="天津频道",天津教育
 http://192.168.1.1:1055/rtp/225.1.1.129:5002
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv1.png" group-title="中央频道",CCTV-1综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv1.png" group-title="中央频道",CCTV-1综合
 http://192.168.1.1:1055/rtp/225.1.1.120:5002
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv2.png" group-title="中央频道",CCTV-2财经
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv2.png" group-title="中央频道",CCTV-2财经
 http://192.168.1.1:1055/rtp/225.1.1.133:5002
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv3.png" group-title="中央频道",CCTV-3综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv3.png" group-title="中央频道",CCTV-3综艺
 http://192.168.1.1:1055/rtp/225.1.1.158:5002
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv4.png" group-title="中央频道",CCTV-4中文国际
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv4.png" group-title="中央频道",CCTV-4中文国际
 http://192.168.1.1:1055/rtp/225.1.1.150:5002
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv5.png" group-title="中央频道",CCTV-5体育
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv5.png" group-title="中央频道",CCTV-5体育
 http://192.168.1.1:1055/rtp/225.1.1.160:5002
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv5p.png" group-title="中央频道",CCTV-5+体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv5p.png" group-title="中央频道",CCTV-5+体育赛事
 http://192.168.1.1:1055/rtp/225.1.1.121:5002
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv6.png" group-title="中央频道",CCTV-6电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv6.png" group-title="中央频道",CCTV-6电影
 http://192.168.1.1:1055/rtp/225.1.1.195:5002
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv7.png" group-title="中央频道",CCTV-7国防军事
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv7.png" group-title="中央频道",CCTV-7国防军事
 http://192.168.1.1:1055/rtp/225.1.1.138:5002
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv8.png" group-title="中央频道",CCTV-8电视剧
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv8.png" group-title="中央频道",CCTV-8电视剧
 http://192.168.1.1:1055/rtp/225.1.1.196:5002
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv9.png" group-title="中央频道",CCTV-9纪录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv9.png" group-title="中央频道",CCTV-9纪录
 http://192.168.1.1:1055/rtp/225.1.1.119:5002
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv10.png" group-title="中央频道",CCTV-10科教
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv10.png" group-title="中央频道",CCTV-10科教
 http://192.168.1.1:1055/rtp/225.1.1.140:5002
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv11.png" group-title="中央频道",CCTV-11戏曲
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv11.png" group-title="中央频道",CCTV-11戏曲
 http://192.168.1.1:1055/rtp/225.1.2.192:5002
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv12.png" group-title="中央频道",CCTV-12社会与法
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv12.png" group-title="中央频道",CCTV-12社会与法
 http://192.168.1.1:1055/rtp/225.1.1.142:5002
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv13.png" group-title="中央频道",CCTV-13新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv13.png" group-title="中央频道",CCTV-13新闻
 http://192.168.1.1:1055/rtp/225.1.2.193:5002
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv14.png" group-title="中央频道",CCTV-14少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv14.png" group-title="中央频道",CCTV-14少儿
 http://192.168.1.1:1055/rtp/225.1.1.144:5002
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv15.png" group-title="中央频道",CCTV-15音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv15.png" group-title="中央频道",CCTV-15音乐
 http://192.168.1.1:1055/rtp/225.1.2.194:5002
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv16.png" group-title="中央频道",CCTV-16奥林匹克
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv16.png" group-title="中央频道",CCTV-16奥林匹克
 http://192.168.1.1:1055/rtp/225.1.2.237:5002
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv17.png" group-title="中央频道",CCTV-17农业农村
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv17.png" group-title="中央频道",CCTV-17农业农村
 http://192.168.1.1:1055/rtp/225.1.2.52:5002
 #EXTINF:-1 tvg-id="25" tvg-name="CGTN" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cgtn.png" group-title="中央频道",CGTN
 http://192.168.1.1:1055/rtp/225.1.1.27:5002
