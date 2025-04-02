@@ -1,146 +1,109 @@
 #EXTM3U url-tvg="https://e.erw.cc/all.xml"
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin.png" group-title="天津频道",天津卫视
-http://192.168.1.1:1055/rtp/225.1.1.111:5002
-#EXTINF:-1 tvg-id="352" tvg-name="天津新闻" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin1.png" group-title="天津频道",天津新闻
-http://192.168.1.1:1055/rtp/225.1.1.130:5002
-#EXTINF:-1 tvg-id="353" tvg-name="天津文艺" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin2.png" group-title="天津频道",天津文艺
-http://192.168.1.1:1055/rtp/225.1.1.131:5002
-#EXTINF:-1 tvg-id="354" tvg-name="天津影视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin3.png" group-title="天津频道",天津影视
-http://192.168.1.1:1055/rtp/225.1.1.149:5002
-#EXTINF:-1 tvg-id="372" tvg-name="天津都市" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin4.png" group-title="天津频道",天津都市
-http://192.168.1.1:1055/rtp/225.1.1.128:5002
-#EXTINF:-1 tvg-id="405" tvg-name="天津体育" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin5.png" group-title="天津频道",天津体育
-http://192.168.1.1:1055/rtp/225.1.1.122:5002
-#EXTINF:-1 tvg-id="502" tvg-name="天津教育" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/tianjin6.png" group-title="天津频道",天津教育
-http://192.168.1.1:1055/rtp/225.1.1.129:5002
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv1.png" group-title="中央频道",CCTV-1综合
-http://192.168.1.1:1055/rtp/225.1.1.120:5002
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv2.png" group-title="中央频道",CCTV-2财经
-http://192.168.1.1:1055/rtp/225.1.1.133:5002
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv3.png" group-title="中央频道",CCTV-3综艺
-http://192.168.1.1:1055/rtp/225.1.1.158:5002
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv4.png" group-title="中央频道",CCTV-4中文国际
-http://192.168.1.1:1055/rtp/225.1.1.150:5002
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv5.png" group-title="中央频道",CCTV-5体育
-http://192.168.1.1:1055/rtp/225.1.1.160:5002
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv5p.png" group-title="中央频道",CCTV-5+体育赛事
-http://192.168.1.1:1055/rtp/225.1.1.121:5002
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv6.png" group-title="中央频道",CCTV-6电影
-http://192.168.1.1:1055/rtp/225.1.1.195:5002
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv7.png" group-title="中央频道",CCTV-7国防军事
-http://192.168.1.1:1055/rtp/225.1.1.138:5002
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv8.png" group-title="中央频道",CCTV-8电视剧
-http://192.168.1.1:1055/rtp/225.1.1.196:5002
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv9.png" group-title="中央频道",CCTV-9纪录
-http://192.168.1.1:1055/rtp/225.1.1.119:5002
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv10.png" group-title="中央频道",CCTV-10科教
-http://192.168.1.1:1055/rtp/225.1.1.140:5002
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv11.png" group-title="中央频道",CCTV-11戏曲
-http://192.168.1.1:1055/rtp/225.1.2.192:5002
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv12.png" group-title="中央频道",CCTV-12社会与法
-http://192.168.1.1:1055/rtp/225.1.1.142:5002
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv13.png" group-title="中央频道",CCTV-13新闻
-http://192.168.1.1:1055/rtp/225.1.2.193:5002
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv14.png" group-title="中央频道",CCTV-14少儿
-http://192.168.1.1:1055/rtp/225.1.1.144:5002
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv15.png" group-title="中央频道",CCTV-15音乐
-http://192.168.1.1:1055/rtp/225.1.2.194:5002
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv16.png" group-title="中央频道",CCTV-16奥林匹克
-http://192.168.1.1:1055/rtp/225.1.2.237:5002
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cctv17.png" group-title="中央频道",CCTV-17农业农村
-http://192.168.1.1:1055/rtp/225.1.2.52:5002
-#EXTINF:-1 tvg-id="25" tvg-name="CGTN" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cgtn.png" group-title="中央频道",CGTN
-http://192.168.1.1:1055/rtp/225.1.1.27:5002
-#EXTINF:-1 tvg-id="29" tvg-name="CGTN纪录" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/cgtnjl.png" group-title="中央频道",CGTN纪录
-http://192.168.1.1:1055/rtp/225.1.1.55:5002
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/heilongjiang.png" group-title="地方频道",黑龙江卫视
-http://192.168.1.1:1055/rtp/225.1.1.115:5002
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/guangdong.png" group-title="地方频道",广东卫视
-http://192.168.1.1:1055/rtp/225.1.1.116:5002
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/gansu.png" group-title="地方频道",甘肃卫视
-http://192.168.1.1:1055/rtp/225.1.1.159:5002
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hainan.png" group-title="地方频道",海南卫视
-http://192.168.1.1:1055/rtp/225.1.2.82:5002
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/zhejiang.png" group-title="地方频道",浙江卫视
-http://192.168.1.1:1055/rtp/225.1.1.112:5002
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hunan.png" group-title="地方频道",湖南卫视
-http://192.168.1.1:1055/rtp/225.1.1.114:5002
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hubei.png" group-title="地方频道",湖北卫视
-http://192.168.1.1:1055/rtp/225.1.1.147:5002
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/sichuan.png" group-title="地方频道",四川卫视
-http://192.168.1.1:1055/rtp/225.1.1.123:5002
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jiangxi.png" group-title="地方频道",江西卫视
-http://192.168.1.1:1055/rtp/225.1.2.29:5002
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/liaoning.png" group-title="地方频道",辽宁卫视
-http://192.168.1.1:1055/rtp/225.1.1.154:5002
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/anhui.png" group-title="地方频道",安徽卫视
-http://192.168.1.1:1055/rtp/225.1.1.127:5002
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/shenzhen.png" group-title="地方频道",深圳卫视
-http://192.168.1.1:1055/rtp/225.1.1.117:5002
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jilin.png" group-title="地方频道",吉林卫视
-http://192.168.1.1:1055/rtp/225.1.2.26:5002
-#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/dongfang.png" group-title="地方频道",上海东方卫视
-http://192.168.1.1:1055/rtp/225.1.2.31:5002
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/beijing.png" group-title="地方频道",北京卫视
-http://192.168.1.1:1055/rtp/225.1.1.113:5002
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hebei.png" group-title="地方频道",河北卫视
-http://192.168.1.1:1055/rtp/225.1.2.27:5002
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jiangsu.png" group-title="地方频道",江苏卫视
-http://192.168.1.1:1055/rtp/225.1.1.126:5002
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/henan.png" group-title="地方频道",河南卫视
-http://192.168.1.1:1055/rtp/225.1.2.61:5002
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/chongqing.png" group-title="地方频道",重庆卫视
-http://192.168.1.1:1055/rtp/225.1.1.155:5002
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/guizhou.png" group-title="地方频道",贵州卫视
-http://192.168.1.1:1055/rtp/225.1.2.28:5002
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/qinghai.png" group-title="地方频道",青海卫视
-http://192.168.1.1:1055/rtp/225.1.1.251:5002
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/sansha.png" group-title="地方频道",三沙卫视
-http://192.168.1.1:1055/rtp/225.1.1.182:5002
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/guangxi.png" group-title="地方频道",广西卫视
-http://192.168.1.1:1055/rtp/225.1.2.81:5002
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/yunnan.png" group-title="地方频道",云南卫视
-http://192.168.1.1:1055/rtp/225.1.1.250:5002
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/neimenggu.png" group-title="地方频道",内蒙古卫视
-http://192.168.1.1:1055/rtp/225.1.1.32:5002
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/xinjiang.png" group-title="地方频道",新疆卫视
-http://192.168.1.1:1055/rtp/225.1.1.35:5002
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/shaanxi.png" group-title="地方频道",陕西卫视
-http://192.168.1.1:1055/rtp/225.1.1.41:5002
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/shanxi.png" group-title="地方频道",山西卫视
-http://192.168.1.1:1055/rtp/225.1.1.50:5002
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/xizang.png" group-title="地方频道",西藏卫视
-http://192.168.1.1:1055/rtp/225.1.1.51:5002
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/ningxia.png" group-title="地方频道",宁夏卫视
-http://192.168.1.1:1055/rtp/225.1.1.56:5002
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/bingtuan.png" group-title="地方频道",兵团卫视
-http://192.168.1.1:1055/rtp/225.1.1.57:5002
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/kaku.png" group-title="地方频道",卡酷少儿
-http://192.168.1.1:1055/rtp/225.1.1.58:5002
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hhxd.png" group-title="地方频道",哈哈炫动
-http://192.168.1.1:1055/rtp/225.1.1.62:5002
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jykt.png" group-title="地方频道",金鹰卡通
-http://192.168.1.1:1055/rtp/225.1.2.236:5002
-#EXTINF:-1 tvg-id="136" tvg-name="北京纪实科教" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/beijing.png" group-title="地方频道",北京纪实科教
-http://192.168.1.1:1055/rtp/225.1.2.30:5002
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/jyjs.png" group-title="地方频道",金鹰纪实
-http://192.168.1.1:1055/rtp/225.1.1.124:5002
-#EXTINF:-1 tvg-id="221" tvg-name="山东教育" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/sdjy.png" group-title="地方频道",山东教育卫视
-http://192.168.1.1:1055/rtp/225.1.2.118:5002
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/dyjc.png" group-title="付费频道",第一剧场
-http://192.168.1.1:1055/rtp/225.1.2.175:5002
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/hjjc.png" group-title="付费频道",怀旧剧场
-http://192.168.1.1:1055/rtp/225.1.2.173:5002
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/fyjc.png" group-title="付费频道",风云剧场
-http://192.168.1.1:1055/rtp/225.1.2.174:5002
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/sjdl.png" group-title="付费频道",世界地理
-http://192.168.1.1:1055/rtp/225.1.2.171:5002
-#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/whjp.png" group-title="付费频道",央视文化精品
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/ystq.png" group-title="付费频道",央视台球
-http://192.168.1.1:1055/rtp/225.1.2.170:5002
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/dmxc.png" group-title="付费频道",动漫秀场
-http://192.168.1.1:1055/rtp/225.1.1.134:5002
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/yxfy.png" group-title="付费频道",游戏风云
-http://192.168.1.1:1055/rtp/225.1.1.135:5002
-#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://gitee.com/chilinha/tv/raw/master/logos/xdm.png" group-title="付费频道",新动漫
-http://192.168.1.1:1055/rtp/225.1.1.216:5002
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视",CCTV-1综合
+rtsp://10.1.69.222/PLTV/88888888/224/3221225651/10000100000000060000000000186213_0.smil
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV2.png" group-title="央视",CCTV-2财经
+rtsp://10.1.69.222/PLTV/88888888/224/3221225664/10000100000000060000000000279484_0.smil
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV3.png" group-title="央视",CCTV-3综艺
+rtsp://10.1.69.222/PLTV/88888888/224/3221225858/10000100000000060000000001095854_0.smil
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV4.png" group-title="央视",CCTV-4中文国际
+rtsp://10.1.69.222/PLTV/88888888/224/3221225718/10000100000000060000000000400884_0.smil
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV5.png" group-title="央视",CCTV-5体育
+rtsp://10.1.69.222/PLTV/88888888/224/3221225873/10000100000000060000000001095857_0.smil
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV5+.png" group-title="央视",CCTV5+体育赛事
+rtsp://10.1.69.222/PLTV/88888888/224/3221225632/10000100000000060000000000186265_0.smil
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV6.png" group-title="央视",CCTV-6电影
+rtsp://10.1.69.222/PLTV/88888888/224/3221225860/10000100000000060000000001095858_0.smil
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV7.png" group-title="央视",CCTV-7国防军事
+rtsp://10.1.69.222/PLTV/88888888/224/3221225687/10000100000000060000000000279486_0.smil
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV8.png" group-title="央视",CCTV-8电视剧
+rtsp://10.1.69.222/PLTV/88888888/224/3221225875/10000100000000060000000001095860_0.smil
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV9.png" group-title="央视",CCTV-9纪录
+rtsp://10.1.69.222/PLTV/88888888/224/3221225649/10000100000000060000000000181118_0.smil
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV10.png" group-title="央视",CCTV-10科教
+rtsp://10.1.69.222/PLTV/88888888/224/3221225666/10000100000000060000000000279556_0.smil
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV11.png" group-title="央视",CCTV-11戏曲
+rtsp://10.1.69.222/PLTV/88888888/224/3221226015/10000100000000060000000001800577_0.smil
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV12.png" group-title="央视",CCTV-12社会与法
+rtsp://10.1.69.222/PLTV/88888888/224/3221225668/10000100000000060000000000279567_0.smil
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV13.png" group-title="央视",CCTV-13新闻
+rtsp://10.1.69.222/PLTV/88888888/224/3221226013/10000100000000060000000001800578_0.smil
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV14.png" group-title="央视",CCTV-14少儿
+rtsp://10.1.69.222/PLTV/88888888/224/3221225670/10000100000000060000000000279584_0.smil
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV15.png" group-title="央视",CCTV-15音乐
+rtsp://10.1.69.222/PLTV/88888888/224/3221226011/10000100000000060000000001800579_0.smil
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV16.png" group-title="央视",CCTV-16奥林匹克
+rtsp://10.1.69.222/PLTV/88888888/224/3221226146/10000100000000060000000002089385_0.smil
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV17.png" group-title="央视",CCTV-17农村农业
+rtsp://10.1.69.222/PLTV/88888888/224/3221226009/10000100000000060000000001800580_0.smil
+#EXTINF:-1 tvg-id="174" tvg-name="东方财经" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dfcj.png" group-title="卫视",东方财经
+rtsp://10.1.69.222/PLTV/88888888/224/3221226164/10000100000000060000000002299524_0.smil
+#EXTINF:-1 tvg-id="352" tvg-name="天津新闻" tvg-logo="https://pic.erw.cc/epglogo/tianjin/Tianjin1.png" group-title="卫视",天津新闻
+rtsp://10.1.69.222/PLTV/88888888/224/3221225768/10000100000000060000000000878376_0.smil
+#EXTINF:-1 tvg-id="353" tvg-name="天津文艺" tvg-logo="https://pic.erw.cc/epglogo/tianjin/Tianjin2.png" group-title="卫视",天津文艺
+rtsp://10.1.69.222/PLTV/88888888/224/3221225760/10000100000000060000000000871450_0.smil
+#EXTINF:-1 tvg-id="354" tvg-name="天津影视" tvg-logo="https://pic.erw.cc/epglogo/tianjin/Tianjin3.png" group-title="卫视",天津影视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225727/10000100000000060000000000386274_0.smil
+#EXTINF:-1 tvg-id="372" tvg-name="天津都市" tvg-logo="https://pic.erw.cc/epglogo/tianjin/Tianjin4.png" group-title="卫视",天津都市
+rtsp://10.1.69.222/PLTV/88888888/224/3221225755/10000100000000060000000000472798_0.smil
+#EXTINF:-1 tvg-id="405" tvg-name="天津体育" tvg-logo="https://pic.erw.cc/epglogo/tianjin/Tianjin5.png" group-title="卫视",天津体育
+rtsp://10.1.69.222/PLTV/88888888/224/3221225714/10000100000000060000000000327833_0.smil
+#EXTINF:-1 tvg-id="502" tvg-name="天津教育" tvg-logo="https://pic.erw.cc/epglogo/tianjin/Tianjin6.png" group-title="卫视",天津教育
+rtsp://10.1.69.222/PLTV/88888888/224/3221225752/10000100000000060000000000819345_0.smil
+#EXTINF:-1 tvg-id="84" tvg-name="天津卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Tianjin.png" group-title="卫视",天津卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225626/10000100000000060000000000144489_0.smil
+#EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Zhejiang.png" group-title="卫视",浙江卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225624/10000100000000060000000000144482_0.smil
+#EXTINF:-1 tvg-id="90" tvg-name="北京卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Beijing.png" group-title="卫视",北京卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225645/10000100000000060000000000144484_0.smil
+#EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Hunan.png" group-title="卫视",湖南卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225643/10000100000000060000000000144485_0.smil
+#EXTINF:-1 tvg-id="168" tvg-name="金鹰卡通" tvg-logo="https://pic.erw.cc/epglogo/hunan/Hunan10.png" group-title="卫视",金鹰卡通
+rtsp://10.1.69.222/PLTV/88888888/224/3221226177/10000100000000060000000002579126_0.smil
+#EXTINF:-1 tvg-id="169" tvg-name="金鹰纪实" tvg-logo="https://pic.erw.cc/epglogo/hunan/Hunan9.png" group-title="卫视",金鹰纪实
+rtsp://10.1.69.222/PLTV/88888888/224/3221225722/10000100000000060000000000400892_0.smil
+#EXTINF:-1 tvg-id="92" tvg-name="黑龙江卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Heilongjiang.png" group-title="卫视",黑龙江卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225647/10000100000000060000000000144480_0.smil
+#EXTINF:-1 tvg-id="82" tvg-name="广东卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Guangdong.png" group-title="卫视",广东卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225622/10000100000000060000000000144486_0.smil
+#EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Shenzhen.png" group-title="卫视",深圳卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225641/10000100000000060000000000144487_0.smil
+#EXTINF:-1 tvg-id="85" tvg-name="湖北卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Hubei.png" group-title="卫视",湖北卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225672/10000100000000060000000000279589_0.smil
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Sichuan.png" group-title="卫视",四川卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225720/10000100000000060000000000400888_0.smil
+#EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Jiangsu.png" group-title="卫视",江苏卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225738/10000100000000060000000000459990_0.smil
+#EXTINF:-1 tvg-id="87" tvg-name="安徽卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Anhui.png" group-title="卫视",安徽卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225740/10000100000000060000000000460006_0.smil
+#EXTINF:-1 tvg-id="86" tvg-name="辽宁卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Liaoning.png" group-title="卫视",辽宁卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225811/10000100000000060000000000943277_0.smil
+#EXTINF:-1 tvg-id="77" tvg-name="重庆卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Chongqing.png" group-title="卫视",重庆卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225800/10000100000000060000000000943289_0.smil
+#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Dongfang.png" group-title="卫视",东方卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225886/10000100000000060000000001248987_0.smil
+#EXTINF:-1 tvg-id="93" tvg-name="河北卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Hebei.png" group-title="卫视",河北卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225888/10000100000000060000000001260653_0.smil
+#EXTINF:-1 tvg-id="98" tvg-name="吉林卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Jilin.png" group-title="卫视",吉林卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225890/10000100000000060000000001260678_0.smil
+#EXTINF:-1 tvg-id="95" tvg-name="江西卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Jiangxi.png" group-title="卫视",江西卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225903/10000100000000060000000001260682_0.smil
+#EXTINF:-1 tvg-id="79" tvg-name="贵州卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Guizhou.png" group-title="卫视",贵州卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225892/10000100000000060000000001260685_0.smil
+#EXTINF:-1 tvg-id="100" tvg-name="河南卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Henan.png" group-title="卫视",河南卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225906/10000100000000060000000001359704_0.smil
+#EXTINF:-1 tvg-id="103" tvg-name="广西卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Guangxi.png" group-title="卫视",广西卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225988/10000100000000060000000001984050_0.smil
+#EXTINF:-1 tvg-id="97" tvg-name="海南卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Hainan.png" group-title="卫视",海南卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221225917/10000100000000060000000001359722_0.smil
+#EXTINF:-1 tvg-id="289" tvg-name="三沙卫视" tvg-logo="https://pic.erw.cc/epglogo/hainan/Sansha.png" group-title="卫视",三沙卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221226165/10000100000000060000000002393564_0.smil
+#EXTINF:-1 tvg-id="99" tvg-name="甘肃卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Gansu.png" group-title="卫视",甘肃卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221226184/382596809.smil
+#EXTINF:-1 tvg-id="94" tvg-name="云南卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Yunnan.png" group-title="卫视",云南卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221226193/434502526.smil
+#EXTINF:-1 tvg-id="104" tvg-name="青海卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Qinghai.png" group-title="卫视",青海卫视
+rtsp://10.1.69.222/PLTV/88888888/224/3221226194/456151300.smil
+#EXTINF:-1 tvg-id="262" tvg-name="中华美食" tvg-logo="https://pic.erw.cc/epglogo/shuzi/zhms.png" group-title="卫视",中华美食
+rtsp://10.1.69.222/PLTV/88888888/224/3221226176/420800114.smil
+#EXTINF:-1 tvg-id="255" tvg-name="中国天气" tvg-logo="https://pic.erw.cc/epglogo/shuzi/zgtq.png" group-title="卫视",中国天气
+rtsp://10.1.69.222/PLTV/88888888/224/3221226191/446605901.smil
